@@ -1,18 +1,39 @@
-## Getting Started
+# Práctica de Algoritmos de Busqueda
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Información General
 
-## Folder Structure
+- **Título:** Tarea de Algoritmos de Busqueda y Ordenamiento
+- **Asignatura:** Estructura de Datos
+- **Carrera:** Computación
+- **Estudiante:** Sebastian Calderon
+- **Fecha:** 23/04/2025
+- **Profesor:** Ing. Pablo Torres
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Descripción
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este proyecto implementa y compara diferentes algoritmos de ordenamiento y busqueda en Java, incluyendo:
+- Método de insercion por edad
+- Metodo de insercion por nombre
+- Metoso de Seleccion desendiente por nombre
+- Metodo de burbuja por nombre
+- Método de busqueda binaria por edad
+- Metodo de busqueda binaria por nombre
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🚀 Ejecución
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Para ejecutar el proyecto:
+
+1. Compila el código:
+    ```bash
+    javac App.java
+    ```
+2. Ejecuta la aplicación:
+    ```bash
+    java App
+    ```
+    
+---
